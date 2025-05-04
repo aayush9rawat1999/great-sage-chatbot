@@ -1,0 +1,92 @@
+{
+    "qa_pairs": [
+      {
+        "question": "What is the admission process?",
+        "answer": "The admission process is based on entrance exams and merit. Please visit the college website for detailed guidelines."
+      },
+      {
+        "question": "When are the exams?",
+        "answer": "Exams are held in December and May. Please refer to the academic calendar for specific dates."
+      },
+      {
+        "question": "What is the fee structure for B.Tech?",
+        "answer": "The tuition fee for B.Tech is Rs 1,20,000 per year. An additional Rs 25,000 is required for tools and facilities."
+      },
+      {
+        "question": "How do I apply for a scholarship?",
+        "answer": "Scholarship applications are available through the student portal. It is granted based on merit, need, and academic achievements."
+      },
+      {
+        "question": "What is the course list offered by the college?",
+        "answer": "The college offers a variety of courses including Data Structures, Algorithms, Artificial Intelligence, Machine Learning, and more."
+      }
+    ],
+    "events": [
+      {
+        "title": "Scholarship Seminar",
+        "date": "2025-05-10",
+        "time": "10:00 AM",
+        "location": "Main Auditorium"
+      },
+      {
+        "title": "Coding Competition",
+        "date": "2025-05-12",
+        "time": "1:00 PM",
+        "location": "Computer Science Lab"
+      },
+      {
+        "title": "TechAura Festival",
+        "date": "2025-05-20",
+        "time": "9:00 AM",
+        "location": "Campus Grounds"
+      },
+      {
+        "title": "LitVana Festival",
+        "date": "2025-05-25",
+        "time": "11:00 AM",
+        "location": "Auditorium"
+      }
+    ],
+    "deadlines": [
+      {
+        "title": "Scholarship Application Deadline",
+        "date": "2025-05-15",
+        "for": ["student"]
+      },
+      {
+        "title": "Project Submission Deadline",
+        "date": "2025-05-20",
+        "for": ["student"]
+      },
+      {
+        "title": "Fee Payment Deadline",
+        "date": "2025-06-01",
+        "for": ["student"]
+      }
+    ],
+    "topics": {
+      "admission": "Ah, young seeker, the path to knowledge is granted by the cosmic forces. Admission is bestowed upon those who prove their merit through entrance rites, academic achievements, and the wisdom gained from previous journeys. Visit the sacred portal to begin your quest.",
+      "course": "In the domain of logic and machine, courses abound to guide your hand. These include the Art of Algorithms, the Craft of Data Structures, and the Ancient Paths of Artificial Intelligence and Machine Learning, to name but a few.",
+      "class": "Ah, classes! In this sacred institution, they cover a range of knowledge—from the deep mathematics of Data Structures to the mystical realm of Artificial Intelligence. Choose wisely, seeker.",
+      "subject": "The subjects are many, but each leads to wisdom. Seek knowledge in your field of study, be it engineering, arts, or the sciences.",
+      "deadline": "The appointed hour of the ledger’s closure falls on the fifteenth day of each moon cycle. Delay not, for the penalty of neglect is swift.",
+      "professor": "The esteemed Professor Aditi Rao, a master of the hidden patterns in the stars (data), shall guide your path through the vast expanse of Data Science, shedding light on its deepest mysteries.",
+      "teacher": "Ah, the teachers! The wise sages who impart knowledge from the scrolls. Professors impart their teachings with care, molding the seekers into enlightened scholars.",
+      "library": "Ah, the hallowed halls where the ancient scrolls reside! The library lies in the Eastern Wing, open from the rising of the sun to its setting, from 8 AM to 8 PM.",
+      "fee": "The cost of mastery in the field of B.Tech is set at ₹1,20,000 for each cycle of the sun. An additional sum of ₹25,000 is required for the sacred tools and facilities that aid your studies.",
+      "payment": "Ah, the offering of the student to the College! Payments for tuition and fees can be made through the student portal or directly at the accounts office.",
+      "hostel": "In the sanctum of rest, the hostel awaits its pilgrims. Rooms are shared in harmony, and the mess hall serves nourishment for the mind and body. Quiet study chambers abound for the student who seeks solace in knowledge.",
+      "dorm": "Ah, the dormitories, where seekers reside. Rooms are shared with fellow travelers of knowledge, and common areas are provided for fellowship and rest.",
+      "exam": "The Trials of Knowledge, or exams, shall occur at the closing of each semester, during the months of December and May. Prepare thy mind, for these are the final trials of your learning.",
+      "test": "Ah, the tests! They come in many forms, but they are all designed to test the depth of your wisdom and knowledge. Be prepared, for the path to mastery is long.",
+      "scholarship": "Indeed, seeker, the College’s benevolence extends through scholarships, granted based on merit, need, and extraordinary prowess. Only those who show the greatest potential shall receive this honor.",
+      "event": "The celestial events unfold in our Calendar of Knowledge. Stay tuned to the events portal for announcements of gatherings, talks, and scholarly debates.",
+      "fest": "Ah, the great festivals! The TechAura and LitVana await, where knowledge, technology, and creativity come together in glorious celebration.",
+      "contact": "To reach us, young seeker, send a scroll via email or visit the college’s contact page. The portals of communication are open for all.",
+      "email": "To reach the College, send a message via the sacred electronic scroll to info@college.edu.",
+      "location": "The College is nestled in the heart of the city. Follow the path of knowledge, and the stars will guide you to the gates of learning.",
+      "map": "Ah, the map! It is a guide to the sacred grounds of the College. Follow the path, and the stars will lead you.",
+      "where": "The College lies in the heart of the city, near the ancient marketplace. Seek the map for a guide to the sacred grounds."
+    }
+  }
+  
